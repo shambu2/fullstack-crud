@@ -3,7 +3,7 @@
 This is a full-stack e-commerce project that allows users to view, add, edit, and delete products. It has a **React frontend** and a **Node.js/Express backend** with a MongoDB database.
 
 ## 📸 Screenshot
-![Electronics Store UI](./frontend/mini.png)
+![Electronics Store UI](./frontend/public/mini.png)
 
 ## 🚀 Features
 - Display a list of electronic products with images, names, and prices
